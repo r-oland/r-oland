@@ -6,4 +6,4 @@ My name is Roland. I love making unique ideas come to life and solving complex p
 
 ### Let's work together 🌱
 
-I'm currently based in Eindhoven, The Netherlands and I'm available for freelance work. If you wan't to know more or get into contact: <a href="https://rolandbranten.com" target="_blank">Check out my website!</a>
+I'm currently based in Eindhoven, The Netherlands and I'm available for freelance work. If you wan't to know more or get into contact: <a href="https://rolandbranten.com" target="_blank">check out my website!</a>
